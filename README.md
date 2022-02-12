@@ -4,9 +4,10 @@ Converts Launchbox database to JSON
 
 1 - Download Launchbox Metadata zip: https://gamesdb.launchbox-app.com/Metadata.zip
 
-2 - Open it using Libreoffice
+2 - Open metadata.xml using Libreoffice
 
 3 - Export games and media as CSV
+
 4 - Create mySQL tables
 
     -- Create syntax for TABLE 'games'

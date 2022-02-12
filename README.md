@@ -69,6 +69,6 @@ Converts Launchbox database to JSON
 
 4 - Import CSV into those tables
 
-5 - Execute clear_launcbox.sql ( It takes 20 minutes on an M1 Mac)
+5 - Execute clear_launchbox.sql ( It takes 20 minutes on an M1 Mac)
 
 6 - Execute index.php and wait for the json files to generate.
